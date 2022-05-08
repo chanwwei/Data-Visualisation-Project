@@ -1,4 +1,4 @@
-# Data Visualisation Projects
+# Data Visualisation Projects using Microsoft Power BI
  Project Aims: 
 To build a visualisation dashboard using Microsoft Power BI to derive insights from the sales data of a coffee chain.
 
