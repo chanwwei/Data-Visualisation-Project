@@ -13,4 +13,4 @@ Below highlights several dashboards that has been built:
 
 - The *sales by product dashboard* is designed to investigate how well a product is progressing in sales and how well the marketing investment towards that certain product in a certain area is translated into sales
 
-This project demonstrate my knowledge in using Microsoft Power BI tools to construct dashboards that help derive business insights that facilitate decision making.
+
