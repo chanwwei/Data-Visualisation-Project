@@ -1,8 +1,5 @@
 # Data Visualisation Projects
-
-1. This repository contains files/codes for my Data Visualization projects and reports created using Microsoft Power BI
-
-2. This project demonstrats my knowledge and abilities to use Data Visualisation tools such as PowerBI to derive business insights and facilitate business decision making. 
+This project demonstrats my knowledge and abilities to use Data Visualisation tools such as PowerBI to derive business insights and facilitate business decision making. 
 
 Project aims: To build a visualisation dashboard using Microsoft Power BI to derive insights from the sales data of a coffee chain.
 
