@@ -1,4 +1,4 @@
-# Data-Visualisation-Project
+# Data-Visualisation-Project using Microsoft PowerBI
 
 This project demonstrats my knowledge and abilities to use Data Visualisation tools such as PowerBI to derive business insights and facilitate business decision making. 
 
