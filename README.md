@@ -1,7 +1,5 @@
 # Data Visualisation Projects
-This project demonstrats my knowledge and abilities to use Data Visualisation tools such as PowerBI to derive business insights and facilitate business decision making. 
-
-Project aims: To build a visualisation dashboard using Microsoft Power BI to derive insights from the sales data of a coffee chain.
+ Project aims: To build a visualisation dashboard using Microsoft Power BI to derive insights from the sales data of a coffee chain.
 
 Below highlights several dashboards that has been built: 
 - The *sales overview dashboard* is a visual representation of sales data and it provides an overview of the coffee chain’s key performance indicators
