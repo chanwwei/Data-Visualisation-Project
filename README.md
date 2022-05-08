@@ -5,7 +5,7 @@ To build a visualisation dashboard using Microsoft Power BI to derive insights f
 Below highlights several dashboards that has been built: 
 - The *sales overview dashboard* is a visual representation of sales data and it provides an overview of the coffee chain’s key performance indicators
 
-- The *sales comparison dashboard* is designed to facilitate the sales comparison between branches of Coffee Chain XYZ
+- The *sales comparison dashboard* is designed to facilitate the sales comparison between branches of coffee chains
 
 - The *year-over-year analysis dashboard* is designed to determine the changes, analyze growth and recognize trends on an annual basis
 
